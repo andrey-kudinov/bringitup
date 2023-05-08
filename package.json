@@ -1,0 +1,19 @@
+{
+  "name": "bring-it-up",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Andrey Kudinov",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  }
+}
